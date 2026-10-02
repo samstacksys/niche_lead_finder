@@ -28,38 +28,12 @@ A free and open-source tool by **Samstack Systems**
 
 ---
 
-## Need leads for a niche?
+## Why focused data beats blind volume
 
-Building a fresh list usually means jumping between sources, copying data, removing duplicates and cleaning everything by hand.
+Sending more isn't always the answer.
 
-**Niche Lead Finder does the repetitive part for you.**
+Huge unfocused lists mean more infrastructure, more VPS resources, more domains, more processing, more time managing campaigns and more opportunities to burn resources on people who were never a good match in the first place.
 
-Choose your niche and GEO, run the search, review the results and export a clean CSV.
+**The better question isn't "How many can I send?"**
 
-> **Dentists + Spain + Sevilla → Search → Clean → Export**
-
----
-
-## What it does
-
-- Search by **niche**
-- Target a **country and location**
-- Collect available public business data
-- Normalize messy results
-- Remove duplicates automatically
-- Review results in one place
-- Export the final list to **CSV**
-
-Depending on the source, results can include:
-
-`Business Name` · `Category` · `Location` · `Address` · `Website` · `Phone` · `Public Business Email`
-
-> **No fake data.** Missing information stays empty. Niche Lead Finder does not generate or guess missing email addresses.
-
----
-
-## Quick Start
-
-### Requirements
-
-- Python 3.
+It's:
