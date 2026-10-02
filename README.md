@@ -2,7 +2,7 @@
 
 # Niche Lead Finder
 
-### Find businesses by niche and location. Get clean, export-ready results.
+### Find leads by niche and GEO. Build a clean, export-ready list.
 
 A free and open-source tool by **Samstack Systems**
 
@@ -18,35 +18,48 @@ A free and open-source tool by **Samstack Systems**
 
 <br><br>
 
-**SEARCH A NICHE &nbsp;→&nbsp; CHOOSE A LOCATION &nbsp;→&nbsp; FIND BUSINESSES &nbsp;→&nbsp; EXPORT CSV**
+<img src="assets/niche-lead-finder-preview.png" alt="Niche Lead Finder by Samstack Systems" width="100%">
+
+<br><br>
+
+**PICK A NICHE &nbsp;→&nbsp; CHOOSE YOUR GEO &nbsp;→&nbsp; FIND LEADS &nbsp;→&nbsp; EXPORT CSV**
 
 </div>
 
 ---
 
-## Stop building business lists by hand
+## Need leads for a niche?
 
-Finding businesses in a specific market usually means repeating the same work:
+Building a fresh list usually means jumping between sources, copying data, removing duplicates and cleaning everything by hand.
 
-**Search. Open. Copy. Paste. Clean. Repeat.**
+**Niche Lead Finder does the repetitive part for you.**
 
-Niche Lead Finder turns that into one search.
+Choose your niche and GEO, run the search, review the results and export a clean CSV.
 
-## See how it works
+> **Dentists + Spain + Sevilla → Search → Clean → Export**
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  NICHE LEAD FINDER                                          │
-│                                                              │
-│  Niche            Country          Location      Max Results │
-│  Dentists         Spain            Sevilla       100         │
-│                                                              │
-│                    [ FIND BUSINESSES ]                        │
-│                                                              │
-│  93 businesses found                         [ EXPORT CSV ]   │
-│  ──────────────────────────────────────────────────────────  │
-│  Business              Location       Website        Phone   │
-│  Clínica Dental Sur    Sevilla        example.es     +34...  │
-│  Dental Centro         Sevilla        example.es     +34...  │
-│  Clínica Sevilla       Sevilla        example.es     +34...  │
-└──────────────────────────────────────────────────────────────┘
+---
+
+## What it does
+
+- Search by **niche**
+- Target a **country and location**
+- Collect available public business data
+- Normalize messy results
+- Remove duplicates automatically
+- Review results in one place
+- Export the final list to **CSV**
+
+Depending on the source, results can include:
+
+`Business Name` · `Category` · `Location` · `Address` · `Website` · `Phone` · `Public Business Email`
+
+> **No fake data.** Missing information stays empty. Niche Lead Finder does not generate or guess missing email addresses.
+
+---
+
+## Quick Start
+
+### Requirements
+
+- Python 3.
